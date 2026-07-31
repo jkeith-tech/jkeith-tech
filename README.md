@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello 
 
+I am Jacob Keith, a CS student at Alabama A&M University.
+
+This account will display my personal coding projects.
 <!--
 **jkeith-tech/jkeith-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
